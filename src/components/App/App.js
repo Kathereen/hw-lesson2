@@ -10,7 +10,6 @@ function App() {
         <Example1/>
         <Example2 testProp='text' testProp2 = '  hi, everybody!'/>
       </h2>
-    
     </div>
     
   );

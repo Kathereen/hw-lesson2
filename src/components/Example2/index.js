@@ -20,6 +20,7 @@ class Example2 extends React.Component{
             </div>
         )
 
+        
     }
 }
 export default Example2;

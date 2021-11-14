@@ -15,6 +15,7 @@ class Example1 extends React.Component{
                     {helloFunction(obj)}
             </div>
         )
+        
     }
 };
 export default Example1;
